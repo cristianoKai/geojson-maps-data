@@ -1,0 +1,16 @@
+{
+  "name": "geojson-maps-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "maps",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["map", "geojson", "echarts", "worldMap"],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
